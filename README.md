@@ -51,5 +51,3 @@ src/
      └── resources/
          ├── application.yml
          └── schema.sql
-
-sd
