@@ -51,3 +51,16 @@ src/
      └── resources/
          ├── application.yml
          └── schema.sql
+
+## Health Check Endpoint
+
+This project includes a basic health check endpoint that can be used to verify that the service is running.
+
+**Endpoint:**
+
+**Sample Response:**
+```json
+{
+  "status": "OK",
+  "timestamp": 1700000000000
+}
