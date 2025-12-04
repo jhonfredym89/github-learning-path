@@ -26,3 +26,4 @@ replay_pid*
 # Java
 target/
 HELP.md
+.vscode/
